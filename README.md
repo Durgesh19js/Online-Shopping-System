@@ -2,7 +2,7 @@
 
 # Welcome to My Online Shopping System!
 
-Hey there, I'm [Sidz111](https://github.com/Durgesh19js), and this is my Java-based Online Shopping System. Dive in to explore a simulated online shopping experience with user registration, product browsing, and more.
+Hey there, I'm [Durgesh19js](https://github.com/Durgesh19js), and this is my Java-based Online Shopping System. Dive in to explore a simulated online shopping experience with user registration, product browsing, and more.
 
 ## Features
 
@@ -41,7 +41,7 @@ Hey there, I'm [Sidz111](https://github.com/Durgesh19js), and this is my Java-ba
 
 ## Contributors
 
-- [Sidz111](https://github.com/Durgesh19js)
+- [Durgesh19js](https://github.com/Durgesh19js)
 
 Feel free to contribute, report issues, or suggest improvements!
 
